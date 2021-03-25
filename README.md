@@ -6,5 +6,8 @@ Functionality: Allows you to deposit ether into a "bank" which will accrue inter
 
 A project in learning smart contracts, web3.js, truffle, ganache, solidity, and other ethereum blockchain technologies.
 
+Testing with mocha + chai
+
+front-end built with react
 
 Starter template from https://github.com/dappuniversity/dbank
