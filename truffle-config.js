@@ -57,7 +57,7 @@ module.exports = {
     }
   },
   contracts_directory: './src/contracts/',
-  contracts_build_directory: './src/abis/',
+  contracts_build_directory: './src/artifacts/',
   compilers: {
     solc: {
       version: ">=0.6.0 <0.8.0",

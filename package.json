@@ -1,8 +1,8 @@
 {
-  "name": "dbank",
+  "name": "DeBank",
   "version": "0.1.0",
   "description": "Decentralized Bank",
-  "author": "dev@dappuniversity.com",
+  "author": "Edwin Luo",
   "homepage": ".",
   "dependencies": {
     "@openzeppelin/contracts": "3.3.0",
