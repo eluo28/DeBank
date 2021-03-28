@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DeBank/static/css/main.d850c1a7.chunk.css",
+    "main.js": "/DeBank/static/js/main.d7a8bc97.chunk.js",
+    "main.js.map": "/DeBank/static/js/main.d7a8bc97.chunk.js.map",
+    "runtime-main.js": "/DeBank/static/js/runtime-main.2d171a92.js",
+    "runtime-main.js.map": "/DeBank/static/js/runtime-main.2d171a92.js.map",
+    "static/css/2.963765e0.chunk.css": "/DeBank/static/css/2.963765e0.chunk.css",
+    "static/js/2.7ec2b853.chunk.js": "/DeBank/static/js/2.7ec2b853.chunk.js",
+    "static/js/2.7ec2b853.chunk.js.map": "/DeBank/static/js/2.7ec2b853.chunk.js.map",
+    "index.html": "/DeBank/index.html",
+    "precache-manifest.0335ac4fef698b36372a9d93b8f3585e.js": "/DeBank/precache-manifest.0335ac4fef698b36372a9d93b8f3585e.js",
+    "service-worker.js": "/DeBank/service-worker.js",
+    "static/css/2.963765e0.chunk.css.map": "/DeBank/static/css/2.963765e0.chunk.css.map",
+    "static/css/main.d850c1a7.chunk.css.map": "/DeBank/static/css/main.d850c1a7.chunk.css.map",
+    "static/js/2.7ec2b853.chunk.js.LICENSE.txt": "/DeBank/static/js/2.7ec2b853.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d171a92.js",
+    "static/css/2.963765e0.chunk.css",
+    "static/js/2.7ec2b853.chunk.js",
+    "static/css/main.d850c1a7.chunk.css",
+    "static/js/main.d7a8bc97.chunk.js"
+  ]
+}
